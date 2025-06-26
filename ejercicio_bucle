@@ -1,0 +1,44 @@
+# # 1
+# num1= int
+# sum = 0
+# while num1 != 0:
+#     num1 = int(input("ingrese numero '0 para cerrar' "))
+#     sum = int(input("ingrese numero '0 para cerrar' "))
+#     sum += num1
+#     print(f"resultado: {sum}")
+    
+# #2
+
+# contraseña = input("ingrese contraseña ")
+
+# while contraseña != "python123":
+#     print("contraseña incorrecta")
+#     contraseña = input("vuelva a intentarlo ")
+
+# #3
+
+# comand = input("ingrese el producto que quisiera agregar a la lista 'salir para cerrar' ")
+# productos = []
+
+# while comand != "salir":
+#     comand = input("+ ")
+#     productos.append(comand)
+#     print(productos)
+
+# # 4
+
+# num = int(input("ingresa numero "))
+# numero= 9
+# pares = 0
+# impares = 0
+# while numero != 0:
+#     numero -= 1 
+#     if ((num //2)*2) == num:
+#         pares += 1
+#     else:
+#         impares += 1
+#     num= int(input("ingresa numero "))
+
+# print(f"en total hay {pares} numeros pares y {impares} numeros impares")
+
+# 5
